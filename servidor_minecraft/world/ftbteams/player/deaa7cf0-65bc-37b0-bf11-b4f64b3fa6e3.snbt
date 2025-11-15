@@ -1,0 +1,17 @@
+{
+	id: "deaa7cf0-65bc-37b0-bf11-b4f64b3fa6e3"
+	type: "player"
+	player_name: "NovaProXX"
+	ranks: {
+		deaa7cf0-65bc-37b0-bf11-b4f64b3fa6e3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NovaProXX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1762655400050,
+      "backupLocation": "/workspaces/server/servidor_minecraft/backups/2025-11-9_2-30-0.zip",
+      "size": 0,
+      "ratio": 0.6788159,
+      "sha1": "6871f0a648190c4c0b9b01e48d3c0a1bddd09b54",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

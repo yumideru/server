@@ -1,0 +1,17 @@
+{
+	id: "89ee158d-227b-3d32-9375-31975ec17f21"
+	type: "player"
+	player_name: "Yanderu75"
+	ranks: {
+		89ee158d-227b-3d32-9375-31975ec17f21: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Yanderu75"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

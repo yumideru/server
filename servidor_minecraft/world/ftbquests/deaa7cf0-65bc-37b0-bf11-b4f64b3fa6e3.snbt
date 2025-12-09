@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "deaa7cf065bc37b0bf11b4f64b3fa6e3"
+	name: "NovaProXX"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
